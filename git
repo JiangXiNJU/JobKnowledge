@@ -1,8 +1,4 @@
-git命令-远程仓库拉取、本地仓库更新、工作空间提交等等
-2017年04月22日 11:47:37
-阅读数：15535
-         这个可以虽然不是自己写的，但是也不是转载的
- 
+git命令-远程仓库拉取、本地仓库更新、工作空间提交等等 转载自https://blog.csdn.net/jtracydy/article/details/70402663，担心Blog不能查看了
   Workspace：工作区
   Index / Stage：暂存区
   Repository：仓库区（或本地仓库）
